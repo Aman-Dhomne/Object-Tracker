@@ -41,7 +41,10 @@ python main.py
 
 ## Example
 
-[Include a gif or video demonstrating your project in action.]
+[![Real-Time Object Tracking](https://youtu.be/QYurBK-6DoI)](https://youtu.be/QYurBK-6DoI)
+
+Click the image above to watch the demonstration video.
+
 
 ## Contributing
 

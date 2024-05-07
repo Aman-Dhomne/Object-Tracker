@@ -41,9 +41,10 @@ python main.py
 
 ## Example
 
-[![Real-Time Object Tracking](https://youtu.be/QYurBK-6DoI)](https://youtu.be/QYurBK-6DoI)
+[![Real-Time Object Tracking](https://img.youtube.com/vi/QYurBK-6DoI/0.jpg)](https://www.youtube.com/watch?v=QYurBK-6DoI)
 
 Click the image above to watch the demonstration video.
+
 
 
 ## Contributing

@@ -53,7 +53,7 @@ Contributions are welcome! Feel free to submit pull requests to enhance the func
 
 ## License
 
-[Include your project's license here.]
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
